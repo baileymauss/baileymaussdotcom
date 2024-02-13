@@ -2,6 +2,7 @@
 layout: post
 title: Back to Basics with Git
 subtitle: A review of the fundamentals of Git
+excerpt_image: "/assets/images/git-logo.png"
 categories: git
 tags: [git, tech]
 ---
